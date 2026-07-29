@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2081439687311573117",
+    "created_at": "2026-07-26T18:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081446787316134391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "997784736591314944",
+          "start": 0,
+          "username": "takuhs0203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081446787316134391",
+    "in_reply_to_user_id": "997784736591314944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081439687311573117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takuhs0203 豆包豆包給他穿上比基尼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2081439687311573117",
+        "created_at": "2026-07-26T18:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081446787316134391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "997784736591314944",
+              "start": 0,
+              "username": "takuhs0203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081446787316134391",
+        "in_reply_to_user_id": "997784736591314944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081439687311573117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takuhs0203 豆包豆包給他穿上比基尼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997784736591314944",
+        "conversation_id": "2081439687311573117",
+        "created_at": "2026-07-26T18:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081439687311573117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mandrake8964/s…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mandrake8964/status/2081402442424672324",
+              "start": 18,
+              "url": "https://t.co/mVDFo6gK11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081439687311573117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081402442424672324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被下面这个豆包ai生成笑得好难受 https://t.co/mVDFo6gK11"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 44,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-19T10:23:13.000Z",
+        "description": "",
+        "id": "997784736591314944",
+        "name": "一直od避孕药",
+        "pinned_tweet_id": "1596516169850433536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075565783187595265/UBaTVV3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 393,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "takuhs0203",
+        "verified": false
+      }
+    ]
+  }
+}

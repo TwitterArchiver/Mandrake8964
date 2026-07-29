@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2079256713228873901",
+    "created_at": "2026-07-20T17:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079256713228873901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lo_xin_ve/stat…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/Lo_xin_ve/status/2078643963850801369",
+          "start": 99,
+          "url": "https://t.co/VueitWS9TK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079256713228873901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078643963850801369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有過性行為：✅\n有過男朋友：✅\n有過女朋友：✅\n嗑過藥：✅\n喝過酒：✅\n掛過科：✅\n去過夜店：✅\n抽過菸/用過電子菸：✅\n吻過別人：✅\n被留堂：✅\n被課堂趕出去：✅\n考試作弊：✅\n偷偷溜出家門：✅ https://t.co/VueitWS9TK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2079256713228873901",
+        "created_at": "2026-07-20T17:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079256713228873901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lo_xin_ve/stat…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Lo_xin_ve/status/2078643963850801369",
+              "start": 99,
+              "url": "https://t.co/VueitWS9TK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079256713228873901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078643963850801369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有過性行為：✅\n有過男朋友：✅\n有過女朋友：✅\n嗑過藥：✅\n喝過酒：✅\n掛過科：✅\n去過夜店：✅\n抽過菸/用過電子菸：✅\n吻過別人：✅\n被留堂：✅\n被課堂趕出去：✅\n考試作弊：✅\n偷偷溜出家門：✅ https://t.co/VueitWS9TK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906147263241707520",
+        "conversation_id": "2078643963850801369",
+        "created_at": "2026-07-19T00:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078643963850801369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiaiaiai_9/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/aiaiaiai_9/status/2078367923828306054",
+              "start": 101,
+              "url": "https://t.co/ABTM0GzLIv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078643963850801369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078367923828306054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：\n有过女朋友：\n嗑过药：✅\n喝过酒：✅  \n挂过科：❌\n去过夜店：✅\n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂：✅\n被课堂赶出去：❌\n考试作弊：✅  \n偷偷溜出家门：❌ https://t.co/ABTM0GzLIv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 18,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T00:51:45.000Z",
+        "description": "听说那个抑郁症很火我加入了",
+        "id": "1906147263241707520",
+        "name": "無法自愈的傷痛",
+        "pinned_tweet_id": "2075291433385300355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367494797029376/PgoF2C0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 32,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "Lo_xin_ve",
+        "verified": false
+      }
+    ]
+  }
+}

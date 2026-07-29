@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2077364303724978687",
+    "created_at": "2026-07-16T22:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077877100359672080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824293194541998080",
+          "start": 0,
+          "username": "Chimera_318"
+        },
+        {
+          "end": 28,
+          "id": "1918274202580467713",
+          "start": 13,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077877100359672080",
+    "in_reply_to_user_id": "1824293194541998080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077486424149123491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chimera_318 @CyberKanjousen 當你說出這些話的時候，就可以證明性少數群體自始至終在你眼裡就不是與你平等的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2077364303724978687",
+        "created_at": "2026-07-16T22:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077877100359672080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824293194541998080",
+              "start": 0,
+              "username": "Chimera_318"
+            },
+            {
+              "end": 28,
+              "id": "1918274202580467713",
+              "start": 13,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077877100359672080",
+        "in_reply_to_user_id": "1824293194541998080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077486424149123491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chimera_318 @CyberKanjousen 當你說出這些話的時候，就可以證明性少數群體自始至終在你眼裡就不是與你平等的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824293194541998080",
+        "conversation_id": "2077364303724978687",
+        "created_at": "2026-07-15T20:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T21:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077486424149123491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077486424149123491",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8819,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077364303724978687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen lgbt不是天天嘴上喊着不歧视要平等吗，那凭什么给自己搞骄傲日这种明显特权的日子，还动不动跳脸正常取向的人？就凭你是个变态？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake flowers",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T03:53:05.000Z",
+        "description": "没有任何生理心理疾病",
+        "id": "1824293194541998080",
+        "name": "不知道叫什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965470502287454208/34UGJ_z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Chimera_318",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文由 @yameta_www 代发\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yameta_www"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 121,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 98,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10722,
+          "following_count": 883,
+          "like_count": 31030,
+          "listed_count": 15,
+          "media_count": 2113,
+          "tweet_count": 10571
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

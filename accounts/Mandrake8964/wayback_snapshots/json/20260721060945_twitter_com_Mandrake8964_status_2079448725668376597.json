@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079143171695824896"
+      ],
+      "media_source_tweet_id": [
+        "2079143181682380824"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2079448725668376597",
+    "created_at": "2026-07-21T06:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079448725668376597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643490407094030338",
+          "start": 3,
+          "username": "Usam8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsi0WaaisG",
+          "end": 37,
+          "expanded_url": "https://x.com/Usam8964/status/2079143181682380824/photo/1",
+          "media_key": "3_2079143171695824896",
+          "start": 14,
+          "url": "https://t.co/nsi0WaaisG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079448725668376597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079143181682380824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usam8964: https://t.co/nsi0WaaisG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2079143171695824896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqZsuob0AATsGs.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079143171695824896"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2079143181682380824",
+        "created_at": "2026-07-20T09:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079143181682380824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsi0WaaisG",
+              "end": 23,
+              "expanded_url": "https://x.com/Usam8964/status/2079143181682380824/photo/1",
+              "media_key": "3_2079143171695824896",
+              "start": 0,
+              "url": "https://t.co/nsi0WaaisG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079143181682380824",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1619,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nsi0WaaisG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079143171695824896"
+          ],
+          "media_source_tweet_id": [
+            "2079143181682380824"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2079448725668376597",
+        "created_at": "2026-07-21T06:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079448725668376597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643490407094030338",
+              "start": 3,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsi0WaaisG",
+              "end": 37,
+              "expanded_url": "https://x.com/Usam8964/status/2079143181682380824/photo/1",
+              "media_key": "3_2079143171695824896",
+              "start": 14,
+              "url": "https://t.co/nsi0WaaisG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079448725668376597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079143181682380824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usam8964: https://t.co/nsi0WaaisG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 1364,
+          "like_count": 80721,
+          "listed_count": 7,
+          "media_count": 617,
+          "tweet_count": 8211
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      }
+    ]
+  }
+}

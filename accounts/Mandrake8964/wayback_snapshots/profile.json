@@ -1,0 +1,25 @@
+{
+  "name": "最後一株Mandrake2.0",
+  "username": "@Mandrake8964",
+  "bio": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+  "location": "罌粟花與你/3lue",
+  "link": "https://t.me/Ekouuuuuu",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 46,
+        "start": 36,
+        "username": "Ekouuuuuu"
+      },
+      {
+        "end": 60,
+        "start": 53,
+        "username": "seeFvn"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg"
+}

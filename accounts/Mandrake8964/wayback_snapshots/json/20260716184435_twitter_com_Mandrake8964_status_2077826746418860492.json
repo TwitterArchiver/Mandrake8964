@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2077826638797230132",
+    "created_at": "2026-07-16T18:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077826746418860492"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077826746418860492",
+    "in_reply_to_user_id": "2056703191597920256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077826638797230132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想在讓你出現在我的生活裡了\n我們還是走到了這一步"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2077826638797230132",
+        "created_at": "2026-07-16T18:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077826746418860492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077826746418860492",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077826638797230132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想在讓你出現在我的生活裡了\n我們還是走到了這一步"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2077826638797230132",
+        "created_at": "2026-07-16T18:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077826638797230132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077826638797230132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在你眼裡我報警就是想提現你嗎\n我要是真貪財我就不會和你在一起\n從一開始我就只是想要一個你的道歉\n只要你認真給我道歉一次\n我就把一切都原諒\n我可以當做什麼都沒發生過\n但你沒有道歉\n我連原諒的機會都沒有\n在你眼裡我就是一個貪財的令人惡心的精神病\n或許是我錯了\n這件事還是繼續交給警察操辦吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake flowers",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 9,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      }
+    ]
+  }
+}

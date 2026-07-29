@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081691218694782976"
+      ],
+      "media_source_tweet_id": [
+        "2081691567375683868"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2082054003844849811",
+    "created_at": "2026-07-28T10:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082054003844849811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zG2iQjGnxG",
+          "end": 112,
+          "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+          "media_key": "3_2081691218694782976",
+          "start": 89,
+          "url": "https://t.co/zG2iQjGnxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082054003844849811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081691567375683868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: 3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081691218694782976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOnIlZaQAADieo.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081691218694782976"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081691567375683868",
+        "created_at": "2026-07-27T10:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081691567375683868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG2iQjGnxG",
+              "end": 99,
+              "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+              "media_key": "3_2081691218694782976",
+              "start": 76,
+              "url": "https://t.co/zG2iQjGnxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081691567375683868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4538,
+          "like_count": 80,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081691218694782976"
+          ],
+          "media_source_tweet_id": [
+            "2081691567375683868"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2082054003844849811",
+        "created_at": "2026-07-28T10:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082054003844849811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zG2iQjGnxG",
+              "end": 112,
+              "expanded_url": "https://x.com/pr80net/status/2081691567375683868/photo/1",
+              "media_key": "3_2081691218694782976",
+              "start": 89,
+              "url": "https://t.co/zG2iQjGnxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082054003844849811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081691567375683868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: 3-抖音-感康y\n墙内欧滴圈的顶级皇帝，真正的抢手硬通货。\n“抖音人对感康的开发程度不足1%” -璐哥\n“你们抖人是不是吃屎都能致幻。” -Mercy https://t.co/zG2iQjGnxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 116,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's pr80原粉 @ZakkyV10\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "ZakkyV10"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 395,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

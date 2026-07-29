@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080283598280888320"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2080283630547665049",
+    "created_at": "2026-07-23T13:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080283630547665049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KNDnb3qYSn",
+          "end": 32,
+          "expanded_url": "https://x.com/Mandrake8964/status/2080283630547665049/video/1",
+          "media_key": "13_2080283598280888320",
+          "start": 9,
+          "url": "https://t.co/KNDnb3qYSn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080283630547665049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "23年的土蕾形態 https://t.co/KNDnb3qYSn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18018,
+        "height": 1280,
+        "media_key": "13_2080283598280888320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080283598280888320/img/eTmxnF1xcqkPqWAB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283598280888320/vid/avc1/320x568/3bl_LVX9R23-dx-N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283598280888320/vid/avc1/480x852/atM-XmoljAC_FUVY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080283598280888320/vid/avc1/720x1280/kDSHLHVZUfKaS5ng.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080283598280888320/pl/ePZGVT4dl1SciDc7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080283598280888320"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2080283630547665049",
+        "created_at": "2026-07-23T13:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080283630547665049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNDnb3qYSn",
+              "end": 32,
+              "expanded_url": "https://x.com/Mandrake8964/status/2080283630547665049/video/1",
+              "media_key": "13_2080283598280888320",
+              "start": 9,
+              "url": "https://t.co/KNDnb3qYSn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080283630547665049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "23年的土蕾形態 https://t.co/KNDnb3qYSn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 21,
+          "like_count": 1048,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      }
+    ]
+  }
+}

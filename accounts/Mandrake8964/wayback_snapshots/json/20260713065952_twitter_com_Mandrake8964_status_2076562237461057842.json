@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076562219249303552"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2076562237461057842",
+    "created_at": "2026-07-13T06:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076562237461057842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lLZ03JfYRy",
+          "end": 35,
+          "expanded_url": "https://x.com/Mandrake8964/status/2076562237461057842/photo/1",
+          "media_key": "3_2076562219249303552",
+          "start": 12,
+          "url": "https://t.co/lLZ03JfYRy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076562237461057842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了 李鋼 我放過你了 https://t.co/lLZ03JfYRy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1745,
+        "media_key": "3_2076562219249303552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFuVhhaAAACHaE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076562219249303552"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2076562237461057842",
+        "created_at": "2026-07-13T06:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076562237461057842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lLZ03JfYRy",
+              "end": 35,
+              "expanded_url": "https://x.com/Mandrake8964/status/2076562237461057842/photo/1",
+              "media_key": "3_2076562219249303552",
+              "start": 12,
+              "url": "https://t.co/lLZ03JfYRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076562237461057842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了 李鋼 我放過你了 https://t.co/lLZ03JfYRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake flowers",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 815,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      }
+    ]
+  }
+}

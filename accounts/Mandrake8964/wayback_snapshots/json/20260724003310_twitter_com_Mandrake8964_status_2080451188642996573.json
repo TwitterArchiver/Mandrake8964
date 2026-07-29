@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2080068806894817543",
+    "created_at": "2026-07-24T00:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080451188642996573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906147263241707520",
+          "start": 0,
+          "username": "Lo_xin_ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080451188642996573",
+    "in_reply_to_user_id": "1906147263241707520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080068806894817543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lo_xin_ve 對。。上個月就有一個河南口音的人跟我講台灣人口音重買不起快遞。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2080068806894817543",
+        "created_at": "2026-07-24T00:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080451188642996573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906147263241707520",
+              "start": 0,
+              "username": "Lo_xin_ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080451188642996573",
+        "in_reply_to_user_id": "1906147263241707520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080068806894817543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lo_xin_ve 對。。上個月就有一個河南口音的人跟我講台灣人口音重買不起快遞。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906147263241707520",
+        "conversation_id": "2080068806894817543",
+        "created_at": "2026-07-22T23:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080068806894817543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080068806894817543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我听到浓重口音的人和我扯东扯西我就非常狂躁，感觉文化教育程度还局限于小学毕业证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T00:51:45.000Z",
+        "description": "听说那个抑郁症很火我加入了",
+        "id": "1906147263241707520",
+        "name": "無法自愈的傷痛",
+        "pinned_tweet_id": "2075291433385300355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367494797029376/PgoF2C0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 52,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Lo_xin_ve",
+        "verified": false
+      }
+    ]
+  }
+}

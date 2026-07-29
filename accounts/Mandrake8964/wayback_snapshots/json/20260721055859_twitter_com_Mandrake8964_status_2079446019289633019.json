@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2079036048861245480",
+    "created_at": "2026-07-21T05:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079446019289633019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915052625046949888",
+          "start": 0,
+          "username": "sm4476692215446"
+        },
+        {
+          "end": 25,
+          "id": "1997985969958699008",
+          "start": 17,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079446019289633019",
+    "in_reply_to_user_id": "1915052625046949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079185895257784537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sm4476692215446 @ZaneTuT 墻內蛆什麼時候死啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079185891222794240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrAjVRWsAAPAd8.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-21T05:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079446019289633019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915052625046949888",
+              "start": 0,
+              "username": "sm4476692215446"
+            },
+            {
+              "end": 25,
+              "id": "1997985969958699008",
+              "start": 17,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079446019289633019",
+        "in_reply_to_user_id": "1915052625046949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079185895257784537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sm4476692215446 @ZaneTuT 墻內蛆什麼時候死啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079185891222794240"
+          ]
+        },
+        "author_id": "1915052625046949888",
+        "conversation_id": "2079036048861245480",
+        "created_at": "2026-07-20T12:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079185895257784537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ctQOeP7ZR",
+              "end": 37,
+              "expanded_url": "https://x.com/sm4476692215446/status/2079185895257784537/photo/1",
+              "media_key": "3_2079185891222794240",
+              "start": 14,
+              "url": "https://t.co/3ctQOeP7ZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079185895257784537",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9178,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079036048861245480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 坏嘟嘟了 https://t.co/3ctQOeP7ZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T14:38:53.000Z",
+        "description": "03男刷推偷点梗图回去",
+        "id": "1915052625046949888",
+        "location": "Jung-gu, Republic of Korea",
+        "name": "粟粟",
+        "pinned_tweet_id": "2020539234441101534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008210119675547648/5_sHQZv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 55,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 488
+        },
+        "url": "",
+        "username": "sm4476692215446",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8125,
+          "following_count": 273,
+          "like_count": 6121,
+          "listed_count": 5,
+          "media_count": 37,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

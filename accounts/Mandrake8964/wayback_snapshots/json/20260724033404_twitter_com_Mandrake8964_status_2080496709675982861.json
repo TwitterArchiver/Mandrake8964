@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2080496709675982861",
+    "created_at": "2026-07-24T03:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080496709675982861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039398734962761728",
+          "start": 3,
+          "username": "MISTERK0937"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080496709675982861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079860346270203989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MISTERK0937: 免费帮忙销毁毒品药品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2080496709675982861",
+        "created_at": "2026-07-24T03:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080496709675982861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039398734962761728",
+              "start": 3,
+              "username": "MISTERK0937"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080496709675982861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079860346270203989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MISTERK0937: 免费帮忙销毁毒品药品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039398734962761728",
+        "conversation_id": "2079860346270203989",
+        "created_at": "2026-07-22T09:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079860346270203989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079860346270203989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13446,
+          "like_count": 166,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "免费帮忙销毁毒品药品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "只回fo同类\n一只，坤？@xiaotunsalutee\n我不会一错再错了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "xiaotunsalutee"
+              }
+            ]
+          }
+        },
+        "id": "2039398734962761728",
+        "name": "✝️Curse✝️",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080436584068026368/mtGMHHwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 334,
+          "like_count": 875,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "MISTERK0937",
+        "verified": false
+      }
+    ]
+  }
+}

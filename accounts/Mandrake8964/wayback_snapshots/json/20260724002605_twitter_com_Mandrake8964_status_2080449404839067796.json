@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2080346939904979344",
+    "created_at": "2026-07-24T00:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080449404839067796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802931870218502144",
+          "start": 0,
+          "username": "Melvin2048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080449404839067796",
+    "in_reply_to_user_id": "1802931870218502144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080346939904979344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Melvin2048 抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2080346930807545856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7gguxboAAN6Ku.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1683,
+        "media_key": "3_2080346930786574337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7ggusboAEBUF5.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2080346939904979344",
+        "created_at": "2026-07-24T00:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080449404839067796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931870218502144",
+              "start": 0,
+              "username": "Melvin2048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080449404839067796",
+        "in_reply_to_user_id": "1802931870218502144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080346939904979344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Melvin2048 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080346930807545856",
+            "3_2080346930786574337"
+          ]
+        },
+        "author_id": "1802931870218502144",
+        "conversation_id": "2080346939904979344",
+        "created_at": "2026-07-23T17:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080346939904979344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J4trTzzHgR",
+              "end": 38,
+              "expanded_url": "https://x.com/Melvin2048/status/2080346939904979344/photo/1",
+              "media_key": "3_2080346930807545856",
+              "start": 15,
+              "url": "https://t.co/J4trTzzHgR"
+            },
+            {
+              "display_url": "pic.x.com/J4trTzzHgR",
+              "end": 38,
+              "expanded_url": "https://x.com/Melvin2048/status/2080346939904979344/photo/1",
+              "media_key": "3_2080346930786574337",
+              "start": 15,
+              "url": "https://t.co/J4trTzzHgR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080346939904979344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在此公布我写的很简陋的遗书 https://t.co/J4trTzzHgR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T05:10:47.000Z",
+        "description": "",
+        "id": "1802931870218502144",
+        "name": "栀冉",
+        "pinned_tweet_id": "2080260017392165221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963786927913705472/h9eCUxBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 724,
+          "like_count": 6825,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 4918
+        },
+        "url": "",
+        "username": "Melvin2048",
+        "verified": false
+      }
+    ]
+  }
+}

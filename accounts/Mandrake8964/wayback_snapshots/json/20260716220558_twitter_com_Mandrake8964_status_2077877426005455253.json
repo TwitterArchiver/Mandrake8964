@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2047121386880282866",
+    "created_at": "2026-07-16T22:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077877426005455253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824293194541998080",
+          "start": 0,
+          "username": "Chimera_318"
+        },
+        {
+          "end": 25,
+          "id": "1725432536611053568",
+          "start": 13,
+          "username": "RitieJ37653"
+        },
+        {
+          "end": 37,
+          "id": "1466781846579023872",
+          "start": 26,
+          "username": "RedrBamboo"
+        },
+        {
+          "end": 46,
+          "id": "2853407766",
+          "start": 38,
+          "username": "zhu0588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077877426005455253",
+    "in_reply_to_user_id": "1824293194541998080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075250463260471413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chimera_318 @RitieJ37653 @RedrBamboo @zhu0588 原來是中國人，那沒事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2047121386880282866",
+        "created_at": "2026-07-16T22:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077877426005455253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824293194541998080",
+              "start": 0,
+              "username": "Chimera_318"
+            },
+            {
+              "end": 25,
+              "id": "1725432536611053568",
+              "start": 13,
+              "username": "RitieJ37653"
+            },
+            {
+              "end": 37,
+              "id": "1466781846579023872",
+              "start": 26,
+              "username": "RedrBamboo"
+            },
+            {
+              "end": 46,
+              "id": "2853407766",
+              "start": 38,
+              "username": "zhu0588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077877426005455253",
+        "in_reply_to_user_id": "1824293194541998080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075250463260471413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chimera_318 @RitieJ37653 @RedrBamboo @zhu0588 原來是中國人，那沒事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824293194541998080",
+        "conversation_id": "2047121386880282866",
+        "created_at": "2026-07-09T16:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075250463260471413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725432536611053568",
+              "start": 0,
+              "username": "RitieJ37653"
+            },
+            {
+              "end": 24,
+              "id": "1466781846579023872",
+              "start": 13,
+              "username": "RedrBamboo"
+            },
+            {
+              "end": 33,
+              "id": "2853407766",
+              "start": 25,
+              "username": "zhu0588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075250463260471413",
+        "in_reply_to_user_id": "1725432536611053568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047449168692855228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RitieJ37653 @RedrBamboo @zhu0588 你个脑残，那难道是生你那个脑残爹爹脑残爷打下来的中国？你祖祖辈辈都是脑残生出来你这么个弱智东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭Follow List一堆R18的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake flowers",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T03:53:05.000Z",
+        "description": "没有任何生理心理疾病",
+        "id": "1824293194541998080",
+        "name": "不知道叫什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965470502287454208/34UGJ_z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Chimera_318",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T08:36:16.000Z",
+        "description": "",
+        "id": "1725432536611053568",
+        "name": "铁哥能不铁吗？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751852537848987648/JtKeuFsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 181,
+          "like_count": 11042,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "RitieJ37653",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T14:50:29.000Z",
+        "description": "",
+        "id": "1466781846579023872",
+        "location": "New York, USA",
+        "name": "仲庸Eureka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981903919224586241/0DubwRyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 52,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "RedrBamboo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-12T18:27:07.000Z",
+        "description": "中国未来大趋势：经济危机--社会动荡--专制垮台",
+        "id": "2853407766",
+        "name": "朱韵和",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/633313799383060480/3SqyD6-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516458,
+          "following_count": 357,
+          "like_count": 686,
+          "listed_count": 1511,
+          "media_count": 63977,
+          "tweet_count": 88089
+        },
+        "url": "",
+        "username": "zhu0588",
+        "verified": true
+      }
+    ]
+  }
+}
