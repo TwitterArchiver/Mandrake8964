@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2083937135250526333",
+    "created_at": "2026-08-02T15:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083937135250526333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2083765692759945585",
+          "start": 45,
+          "url": "https://t.co/U3Rne1i9uR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083937135250526333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083765692759945585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先覺得我無病呻吟，再說現代人誰沒點抑鬱症之類的話，到現在又開始懷念說我以前如何的聽話懂事 https://t.co/U3Rne1i9uR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2083765682022547456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsF2PgagAAjVt3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2083937135250526333",
+        "created_at": "2026-08-02T15:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083937135250526333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2083765692759945585",
+              "start": 45,
+              "url": "https://t.co/U3Rne1i9uR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083937135250526333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083765692759945585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先覺得我無病呻吟，再說現代人誰沒點抑鬱症之類的話，到現在又開始懷念說我以前如何的聽話懂事 https://t.co/U3Rne1i9uR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083765682022547456"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083765692759945585",
+        "created_at": "2026-08-02T04:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083765692759945585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kbH2Rgp6y6",
+              "end": 32,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2083765692759945585/photo/1",
+              "media_key": "3_2083765682022547456",
+              "start": 9,
+              "url": "https://t.co/kbH2Rgp6y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083765692759945585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3424,
+          "like_count": 72,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是怎么被对待的 https://t.co/kbH2Rgp6y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "location": "罌粟花與你/3lue",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 121,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12300,
+          "following_count": 5335,
+          "like_count": 98662,
+          "listed_count": 22,
+          "media_count": 2475,
+          "tweet_count": 21343
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

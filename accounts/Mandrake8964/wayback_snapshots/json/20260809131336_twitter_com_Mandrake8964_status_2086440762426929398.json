@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086440751031050241"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2086440762426929398",
+    "created_at": "2026-08-09T13:13:36.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086440762426929398"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/guv0ZTuWGI",
+          "end": 33,
+          "expanded_url": "https://x.com/Mandrake8964/status/2086440762426929398/photo/1",
+          "media_key": "3_2086440751031050241",
+          "start": 10,
+          "url": "https://t.co/guv0ZTuWGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086440762426929398",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2086440751031050241"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kawaiiiii https://t.co/guv0ZTuWGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_2086440751031050241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSGzwIa4AEohJj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086440751031050241"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2086440762426929398",
+        "created_at": "2026-08-09T13:13:36.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086440762426929398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/guv0ZTuWGI",
+              "end": 33,
+              "expanded_url": "https://x.com/Mandrake8964/status/2086440762426929398/photo/1",
+              "media_key": "3_2086440751031050241",
+              "start": 10,
+              "url": "https://t.co/guv0ZTuWGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086440762426929398",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2086440751031050241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kawaiiiii https://t.co/guv0ZTuWGI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2086440762426929398",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 119,
+          "like_count": 1295,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

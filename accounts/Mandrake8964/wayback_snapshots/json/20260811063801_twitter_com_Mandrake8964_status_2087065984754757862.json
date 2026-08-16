@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087065856375455744"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2087065984754757862",
+    "created_at": "2026-08-11T06:38:01.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T07:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087065984754757862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ald1kYr7CO",
+          "end": 39,
+          "expanded_url": "https://x.com/Mandrake8964/status/2087065984754757862/video/1",
+          "media_key": "13_2087065856375455744",
+          "start": 16,
+          "url": "https://t.co/Ald1kYr7CO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087065984754757862",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2087065856375455744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打了三遍都還是這個結局呢。。。 https://t.co/Ald1kYr7CO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63844,
+        "height": 720,
+        "media_key": "13_2087065856375455744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087065856375455744/img/ALYlx387Lf1Uaeih.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087065856375455744/vid/avc1/480x270/mwG3dfqd0lZk1Hrx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087065856375455744/vid/avc1/640x360/RX4IsEANmOvWmB0W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087065856375455744/vid/avc1/1280x720/KsJPmP4zltNAzXY2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087065856375455744/pl/BoDcRWbqSDm-QnvD.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087065856375455744"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2087065984754757862",
+        "created_at": "2026-08-11T06:38:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087065984754757862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ald1kYr7CO",
+              "end": 39,
+              "expanded_url": "https://x.com/Mandrake8964/status/2087065984754757862/video/1",
+              "media_key": "13_2087065856375455744",
+              "start": 16,
+              "url": "https://t.co/Ald1kYr7CO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087065984754757862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087065856375455744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打了三遍都還是這個結局呢。。。 https://t.co/Ald1kYr7CO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖最好的朋友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2087065984754757862",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 127,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
