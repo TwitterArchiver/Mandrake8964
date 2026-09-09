@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089604187114139648",
+        "3_2089604194617675776"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2089604201533890840",
+    "created_at": "2026-08-18T06:43:59.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089604201533890840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T2V5kyvsYJ",
+          "end": 62,
+          "expanded_url": "https://x.com/Mandrake8964/status/2089604201533890840/photo/1",
+          "media_key": "3_2089604187114139648",
+          "start": 39,
+          "url": "https://t.co/T2V5kyvsYJ"
+        },
+        {
+          "display_url": "pic.x.com/T2V5kyvsYJ",
+          "end": 62,
+          "expanded_url": "https://x.com/Mandrake8964/status/2089604201533890840/photo/1",
+          "media_key": "3_2089604194617675776",
+          "start": 39,
+          "url": "https://t.co/T2V5kyvsYJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089604201533890840",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089604187114139648"
+      },
+      {
+        "media_key": "3_2089604194617675776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想拍片就去找賣淫的 想拍擦邊就去找福利姬\n你們找我拍R18的意義是什麼。。。 https://t.co/T2V5kyvsYJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2089604187114139648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_D794bcAAABmG.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2089604194617675776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_D8Z1aUAA5-e9.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089604187114139648",
+            "3_2089604194617675776"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2089604201533890840",
+        "created_at": "2026-08-18T06:43:59.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089604201533890840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T2V5kyvsYJ",
+              "end": 62,
+              "expanded_url": "https://x.com/Mandrake8964/status/2089604201533890840/photo/1",
+              "media_key": "3_2089604187114139648",
+              "start": 39,
+              "url": "https://t.co/T2V5kyvsYJ"
+            },
+            {
+              "display_url": "pic.x.com/T2V5kyvsYJ",
+              "end": 62,
+              "expanded_url": "https://x.com/Mandrake8964/status/2089604201533890840/photo/1",
+              "media_key": "3_2089604194617675776",
+              "start": 39,
+              "url": "https://t.co/T2V5kyvsYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089604201533890840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089604187114139648"
+          },
+          {
+            "media_key": "3_2089604194617675776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想拍片就去找賣淫的 想拍擦邊就去找福利姬\n你們找我拍R18的意義是什麼。。。 https://t.co/T2V5kyvsYJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ekouuuuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Ekouuuuuu",
+                "start": 0,
+                "url": "https://t.co/DmBgrvZUvo"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2089604201533890840",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2089588150557618519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 133,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/DmBgrvZUvo",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

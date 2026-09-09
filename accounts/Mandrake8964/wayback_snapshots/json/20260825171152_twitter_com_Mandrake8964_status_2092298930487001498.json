@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092298900220870656",
+        "3_2092298917631369216"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2092298930487001498",
+    "created_at": "2026-08-25T17:11:52.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092298930487001498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CrL31VRtFZ",
+          "end": 50,
+          "expanded_url": "https://x.com/Mandrake8964/status/2092298930487001498/photo/1",
+          "media_key": "3_2092298900220870656",
+          "start": 27,
+          "url": "https://t.co/CrL31VRtFZ"
+        },
+        {
+          "display_url": "pic.x.com/CrL31VRtFZ",
+          "end": 50,
+          "expanded_url": "https://x.com/Mandrake8964/status/2092298930487001498/photo/1",
+          "media_key": "3_2092298917631369216",
+          "start": 27,
+          "url": "https://t.co/CrL31VRtFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092298930487001498",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092298900220870656"
+      },
+      {
+        "media_key": "3_2092298917631369216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你說禮服很適合我……？！那、那當然！因為我是社長嘛！ https://t.co/CrL31VRtFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2092298900220870656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlWw6ebAAAiKAd.jpg",
+        "width": 2894
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2092298917631369216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlWx7VaIAAbb8h.jpg",
+        "width": 2892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092298900220870656",
+            "3_2092298917631369216"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2092298930487001498",
+        "created_at": "2026-08-25T17:11:52.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092298930487001498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CrL31VRtFZ",
+              "end": 50,
+              "expanded_url": "https://x.com/Mandrake8964/status/2092298930487001498/photo/1",
+              "media_key": "3_2092298900220870656",
+              "start": 27,
+              "url": "https://t.co/CrL31VRtFZ"
+            },
+            {
+              "display_url": "pic.x.com/CrL31VRtFZ",
+              "end": 50,
+              "expanded_url": "https://x.com/Mandrake8964/status/2092298930487001498/photo/1",
+              "media_key": "3_2092298917631369216",
+              "start": 27,
+              "url": "https://t.co/CrL31VRtFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092298930487001498",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092298900220870656"
+          },
+          {
+            "media_key": "3_2092298917631369216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你說禮服很適合我……？！那、那當然！因為我是社長嘛！ https://t.co/CrL31VRtFZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2092298930487001498",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 136,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

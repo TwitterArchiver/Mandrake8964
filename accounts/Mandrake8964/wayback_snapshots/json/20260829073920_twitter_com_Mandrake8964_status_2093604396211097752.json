@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093604373373071360",
+        "3_2093604386270502912"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093604396211097752",
+    "created_at": "2026-08-29T07:39:20.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093604396211097752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T6zgQcykN5",
+          "end": 27,
+          "expanded_url": "https://x.com/Mandrake8964/status/2093604396211097752/photo/1",
+          "media_key": "3_2093604373373071360",
+          "start": 4,
+          "url": "https://t.co/T6zgQcykN5"
+        },
+        {
+          "display_url": "pic.x.com/T6zgQcykN5",
+          "end": 27,
+          "expanded_url": "https://x.com/Mandrake8964/status/2093604396211097752/photo/1",
+          "media_key": "3_2093604386270502912",
+          "start": 4,
+          "url": "https://t.co/T6zgQcykN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093604396211097752",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2093604373373071360"
+      },
+      {
+        "media_key": "3_2093604386270502912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hhh https://t.co/T6zgQcykN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2093604373373071360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ36Fc8bMAA0uZK.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2093604386270502912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ36GM_aYAA2_qW.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093604373373071360",
+            "3_2093604386270502912"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093604396211097752",
+        "created_at": "2026-08-29T07:39:20.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093604396211097752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6zgQcykN5",
+              "end": 27,
+              "expanded_url": "https://x.com/Mandrake8964/status/2093604396211097752/photo/1",
+              "media_key": "3_2093604373373071360",
+              "start": 4,
+              "url": "https://t.co/T6zgQcykN5"
+            },
+            {
+              "display_url": "pic.x.com/T6zgQcykN5",
+              "end": 27,
+              "expanded_url": "https://x.com/Mandrake8964/status/2093604396211097752/photo/1",
+              "media_key": "3_2093604386270502912",
+              "start": 4,
+              "url": "https://t.co/T6zgQcykN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093604396211097752",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2093604373373071360"
+          },
+          {
+            "media_key": "3_2093604386270502912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hhh https://t.co/T6zgQcykN5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2093604396211097752",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2076340685972836556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 133,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
