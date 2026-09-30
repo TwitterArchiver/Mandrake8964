@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100891535109943570",
+    "created_at": "2026-09-18T18:33:00.000Z",
+    "display_text_range": [
+      16,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101016656239804512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101016656239804512",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100891535109943570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 PGB口服利用率更高其實可以不用鼻吸啦hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100891494983036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfdrwYacAABs3-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100891535109943570",
+        "created_at": "2026-09-18T18:33:00.000Z",
+        "display_text_range": [
+          16,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101016656239804512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101016656239804512",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100891535109943570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 PGB口服利用率更高其實可以不用鼻吸啦hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100891494983036928"
+          ]
+        },
+        "author_id": "1489486846211936256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100891535109943570",
+        "created_at": "2026-09-18T10:15:49.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100891535109943570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yx83MyKYzR",
+              "end": 50,
+              "expanded_url": "https://x.com/Splaaaaashivk9/status/2100891535109943570/photo/1",
+              "media_key": "3_2100891494983036928",
+              "start": 27,
+              "url": "https://t.co/Yx83MyKYzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100891535109943570",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100891494983036928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸75mg*16tPr80+1t安非他酮150mg https://t.co/Yx83MyKYzR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2101016656239804512",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 155,
+          "like_count": 1896,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/ElectroPunk/HardDance/Techno/Industrial\n动漫和喜欢的Gal都剪到视频号里去了 玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 \n我要重新尝试一些类型（哼哼\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 123,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2100975800032104863",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 354,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

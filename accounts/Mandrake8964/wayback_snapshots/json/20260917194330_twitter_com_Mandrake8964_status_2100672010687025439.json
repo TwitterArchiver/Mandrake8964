@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100672010687025439",
+    "created_at": "2026-09-17T19:43:30.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100672010687025439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/princess_01011…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/princess_01011/status/2100059824260301182",
+          "start": 18,
+          "url": "https://t.co/sXGhWoM4ON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100672010687025439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100059824260301182",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管被你們喜歡還是討厭都是一種災難 https://t.co/sXGhWoM4ON"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100672010687025439",
+        "created_at": "2026-09-17T19:43:30.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100672010687025439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/princess_01011…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/princess_01011/status/2100059824260301182",
+              "start": 18,
+              "url": "https://t.co/sXGhWoM4ON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100672010687025439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100059824260301182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管被你們喜歡還是討厭都是一種災難 https://t.co/sXGhWoM4ON"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079399533856079872",
+        "conversation_id": "2100059824260301182",
+        "created_at": "2026-09-16T03:10:53.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100059824260301182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100059824260301182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 59058,
+          "like_count": 2716,
+          "quote_count": 8,
+          "reply_count": 73,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "其实很多女性厌男，不愿与男性亲密关系，很大程度上是因为被男性喜欢其实是一种灾难。中国coser不愿互动，被骂老乡鸡，韩国coser不嫌弃国男，受到了国男的追捧。然而国男对她们的称呼是什么呢？韩式炸鸡。\n不论被喜欢还是被讨厌，女性都是被去人化的，物化的，都被称作“鸡”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100672010687025439",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 149,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100616429687226580",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 402,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

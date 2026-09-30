@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1523135490366623745"
+      ],
+      "media_source_tweet_id": [
+        "1523135519747629056"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2103448233469157402",
+    "created_at": "2026-09-25T11:35:13.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103448233469157402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485071849906180101",
+          "start": 3,
+          "username": "sereinscars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssw7vs6l4X",
+          "end": 83,
+          "expanded_url": "https://x.com/sereinscars/status/1523135519747629056/video/1",
+          "media_key": "7_1523135490366623745",
+          "start": 60,
+          "url": "https://t.co/ssw7vs6l4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103448233469157402",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_1523135490366623745"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 798
+    },
+    "referenced_tweets": [
+      {
+        "id": "1523135519747629056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sereinscars: sfx makeup (not me)\nshtwt goretwt heinztwt https://t.co/ssw7vs6l4X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23256,
+        "height": 270,
+        "media_key": "7_1523135490366623745",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1523135490366623745/pu/img/DK-uR80mFvOvBRjs.jpg",
+        "public_metrics": {
+          "view_count": 386064
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1523135490366623745/pu/vid/472x270/SHdEx44MX3b7PD6w.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1523135490366623745/pu/pl/l97c1w7qtJvLPzbE.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1523135490366623745"
+          ],
+          "media_source_tweet_id": [
+            "1523135519747629056"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103448233469157402",
+        "created_at": "2026-09-25T11:35:13.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103448233469157402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485071849906180101",
+              "start": 3,
+              "username": "sereinscars"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssw7vs6l4X",
+              "end": 83,
+              "expanded_url": "https://x.com/sereinscars/status/1523135519747629056/video/1",
+              "media_key": "7_1523135490366623745",
+              "start": 60,
+              "url": "https://t.co/ssw7vs6l4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103448233469157402",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1523135490366623745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 798
+        },
+        "referenced_tweets": [
+          {
+            "id": "1523135519747629056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sereinscars: sfx makeup (not me)\nshtwt goretwt heinztwt https://t.co/ssw7vs6l4X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1523135490366623745"
+          ]
+        },
+        "author_id": "1485071849906180101",
+        "conversation_id": "1523135519747629056",
+        "created_at": "2022-05-08T02:59:41.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2022-05-08T03:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1523135519747629056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssw7vs6l4X",
+              "end": 66,
+              "expanded_url": "https://x.com/sereinscars/status/1523135519747629056/video/1",
+              "media_key": "7_1523135490366623745",
+              "start": 43,
+              "url": "https://t.co/ssw7vs6l4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1523135519747629056",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1523135490366623745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1316,
+          "impression_count": 0,
+          "like_count": 4934,
+          "quote_count": 90,
+          "reply_count": 97,
+          "retweet_count": 798
+        },
+        "reply_settings": "everyone",
+        "text": "sfx makeup (not me)\nshtwt goretwt heinztwt https://t.co/ssw7vs6l4X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2103448233469157402",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 174,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-23T02:08:35.000Z",
+        "description": "block don’t report. none are mine unless said so ; male",
+        "id": "1485071849906180101",
+        "is_identity_verified": false,
+        "location": "he him",
+        "most_recent_tweet_id": "1772451922827465057",
+        "name": "꒰﹒ა serein ✡︎",
+        "pinned_tweet_id": "1689861466042621953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1485071849906180101/1691725747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689846374748098560/s0GZJmVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2686,
+          "following_count": 10,
+          "like_count": 1823,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "sereinscars",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

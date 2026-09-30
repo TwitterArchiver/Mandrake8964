@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100675923507048642",
+    "created_at": "2026-09-17T19:59:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100675923507048642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2842549538",
+          "start": 3,
+          "username": "Reflectier"
+        },
+        {
+          "end": 31,
+          "id": "2079399533856079872",
+          "start": 16,
+          "username": "princess_01011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100675923507048642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100148611074146616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reflectier: @princess_01011 我一向说男的是最拜金的，比如他们奉为圣经的捞女游戏，外卖员摇身一变企业家，女的就倒贴了，他们特别承认这个价值观，认为有钱就能拥有一切，还特别是那些没钱最认同这个道理，因为这样就可以掩盖自己其他方面的失败，把一切推给…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100675923507048642",
+        "created_at": "2026-09-17T19:59:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100675923507048642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2842549538",
+              "start": 3,
+              "username": "Reflectier"
+            },
+            {
+              "end": 31,
+              "id": "2079399533856079872",
+              "start": 16,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100675923507048642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100148611074146616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reflectier: @princess_01011 我一向说男的是最拜金的，比如他们奉为圣经的捞女游戏，外卖员摇身一变企业家，女的就倒贴了，他们特别承认这个价值观，认为有钱就能拥有一切，还特别是那些没钱最认同这个道理，因为这样就可以掩盖自己其他方面的失败，把一切推给…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842549538",
+        "conversation_id": "2100129316873072686",
+        "created_at": "2026-09-16T09:03:42.000Z",
+        "display_text_range": [
+          16,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100148611074146616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079399533856079872",
+              "start": 0,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100148611074146616",
+        "in_reply_to_user_id": "2079399533856079872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 30254,
+          "like_count": 814,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100129316873072686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@princess_01011 我一向说男的是最拜金的，比如他们奉为圣经的捞女游戏，外卖员摇身一变企业家，女的就倒贴了，他们特别承认这个价值观，认为有钱就能拥有一切，还特别是那些没钱最认同这个道理，因为这样就可以掩盖自己其他方面的失败，把一切推给没钱和拜金"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100675923507048642",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 152,
+          "like_count": 1890,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T17:18:11.000Z",
+        "description": "夜撫でるネコたち\n无孩爱猫男。日常向，但混杂键政内容，谨慎关注\n粉红和男拳师会直接拉黑，所以欢迎一击脱离",
+        "id": "2842549538",
+        "is_identity_verified": false,
+        "location": "Victoria, Australia",
+        "most_recent_tweet_id": "2100605099232120949",
+        "name": "森絵",
+        "pinned_tweet_id": "1932021028630471065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2842549538/1726035866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008429721395359750/rSe6FYnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 928,
+          "like_count": 49447,
+          "listed_count": 12,
+          "media_count": 1631,
+          "tweet_count": 27021
+        },
+        "url": "",
+        "username": "Reflectier",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100616429687226580",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 402,
+          "like_count": 3749,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100580845241397352",
+    "created_at": "2026-09-17T19:28:06.000Z",
+    "display_text_range": [
+      15,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100668136584585661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987805389904396288",
+          "start": 0,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100668136584585661",
+    "in_reply_to_user_id": "1987805389904396288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100580845241397352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaruYukii0421 為什麼會吃一大堆亂七八糟且毫無濫用價值的東西。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100580829370130434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDIoyaIAI9Nnz.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100580829366034433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDIoxboAEkbdh.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100580845241397352",
+        "created_at": "2026-09-17T19:28:06.000Z",
+        "display_text_range": [
+          15,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100668136584585661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987805389904396288",
+              "start": 0,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100668136584585661",
+        "in_reply_to_user_id": "1987805389904396288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100580845241397352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaruYukii0421 為什麼會吃一大堆亂七八糟且毫無濫用價值的東西。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100580829370130434",
+            "3_2100580829366034433"
+          ]
+        },
+        "author_id": "1987805389904396288",
+        "conversation_id": "2100580845241397352",
+        "created_at": "2026-09-17T13:41:15.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100580845241397352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iECPkn2TtJ",
+              "end": 30,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2100580845241397352/photo/1",
+              "media_key": "3_2100580829370130434",
+              "start": 7,
+              "url": "https://t.co/iECPkn2TtJ"
+            },
+            {
+              "display_url": "pic.x.com/iECPkn2TtJ",
+              "end": 30,
+              "expanded_url": "https://x.com/HaruYukii0421/status/2100580845241397352/photo/1",
+              "media_key": "3_2100580829366034433",
+              "start": 7,
+              "url": "https://t.co/iECPkn2TtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100580845241397352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100580829370130434"
+          },
+          {
+            "media_key": "3_2100580829366034433"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2398,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解郁疏肝胶囊 https://t.co/iECPkn2TtJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100668136584585661",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 150,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "=迟羊\n🔪💊❤️\n查成分回fo喵\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "zhangyuKawaii"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2100587070528041271",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 619,
+          "like_count": 12169,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1038
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

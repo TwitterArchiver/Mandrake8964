@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102451540686737408"
+      ],
+      "media_source_tweet_id": [
+        "2102451551021543671"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2102521359511458026",
+    "created_at": "2026-09-22T22:12:09.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T23:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102521359511458026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q7tcjp3bBv",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+          "media_key": "3_2102451540686737408",
+          "start": 15,
+          "url": "https://t.co/q7tcjp3bBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102521359511458026",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102451540686737408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102451551021543671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/q7tcjp3bBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2102451540686737408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1oiXgbEAAgSSb.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102451540686737408"
+          ],
+          "media_source_tweet_id": [
+            "2102451551021543671"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2102521359511458026",
+        "created_at": "2026-09-22T22:12:09.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T23:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102521359511458026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7tcjp3bBv",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+              "media_key": "3_2102451540686737408",
+              "start": 15,
+              "url": "https://t.co/q7tcjp3bBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102521359511458026",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102451540686737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102451551021543671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/q7tcjp3bBv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102451540686737408"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2102451551021543671",
+        "created_at": "2026-09-22T17:34:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T18:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102451551021543671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7tcjp3bBv",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2102451551021543671/photo/1",
+              "media_key": "3_2102451540686737408",
+              "start": 0,
+              "url": "https://t.co/q7tcjp3bBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102451551021543671",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102451540686737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2613,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q7tcjp3bBv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2102521359511458026",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 162,
+          "like_count": 2061,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "",
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2102520154546667861",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "2100823651490894097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100823574361817088/77RA33ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37550,
+          "following_count": 361,
+          "like_count": 266,
+          "listed_count": 109,
+          "media_count": 19522,
+          "tweet_count": 19627
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

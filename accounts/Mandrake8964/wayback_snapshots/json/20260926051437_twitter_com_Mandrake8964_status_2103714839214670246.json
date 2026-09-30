@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103445430449143808"
+      ],
+      "media_source_tweet_id": [
+        "2103445454235074889"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2103714839214670246",
+    "created_at": "2026-09-26T05:14:37.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103714839214670246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090119365542694912",
+          "start": 3,
+          "username": "Diaotaida11"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ex1pFHrspX",
+          "end": 109,
+          "expanded_url": "https://x.com/Diaotaida11/status/2103445454235074889/photo/1",
+          "media_key": "3_2103445430449143808",
+          "start": 86,
+          "url": "https://t.co/ex1pFHrspX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103714839214670246",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103445430449143808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103445454235074889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diaotaida11: 中国人翻墙看黄现状：\n\n“我翻墙出来只做三件事，看黄，爱包，骂人”\n\n----粉蛆\n\n1.先在q群叫爹求教程，50腊肉币包你翻墙一次；… https://t.co/ex1pFHrspX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2103445430449143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDweXZXAAA6B2W.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103445430449143808"
+          ],
+          "media_source_tweet_id": [
+            "2103445454235074889"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2103714839214670246",
+        "created_at": "2026-09-26T05:14:37.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103714839214670246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090119365542694912",
+              "start": 3,
+              "username": "Diaotaida11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ex1pFHrspX",
+              "end": 109,
+              "expanded_url": "https://x.com/Diaotaida11/status/2103445454235074889/photo/1",
+              "media_key": "3_2103445430449143808",
+              "start": 86,
+              "url": "https://t.co/ex1pFHrspX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103714839214670246",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103445430449143808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103445454235074889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diaotaida11: 中国人翻墙看黄现状：\n\n“我翻墙出来只做三件事，看黄，爱包，骂人”\n\n----粉蛆\n\n1.先在q群叫爹求教程，50腊肉币包你翻墙一次；… https://t.co/ex1pFHrspX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103445430449143808"
+          ]
+        },
+        "author_id": "2090119365542694912",
+        "conversation_id": "2103445454235074889",
+        "created_at": "2026-09-25T11:24:11.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103445454235074889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ex1pFHrspX",
+              "end": 91,
+              "expanded_url": "https://x.com/Diaotaida11/status/2103445454235074889/photo/1",
+              "media_key": "3_2103445430449143808",
+              "start": 68,
+              "url": "https://t.co/ex1pFHrspX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103445454235074889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103445430449143808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "中国人翻墙看黄现状：\n\n“我翻墙出来只做三件事，看黄，爱包，骂人”\n\n----粉蛆\n\n1.先在q群叫爹求教程，50腊肉币包你翻墙一次；\n搜索框里记录关键词“同城、骚母狗、调教、绿帽、换妻”；给黄推发私信“看看逼、约吗、大(勃起后7厘米)鸡巴捅爽你”并附带未剃毛屌照；黄推花言巧语骗得门槛费288线下约一次；中国人来到指定地点，被仙人跳\n\n2.当了一天牛马的中国人，回家决定在推特找个大片打一发，搜关键词“鸡吧“”逼嫩\"，一看结果天塌了，怎么都是骂习近平和共产党的？\n\n3. 看扔子看逼就能射精，虽然一个中国人的精量有限，但架不住人多，一人一发也要把台湾海峡填平，解放军就能登陆作战\n\n4. 国产区av最常见的拍摄手法就是全程执法记录仪机位，男女主噼里啪啦操了半天看不见鸡巴也看不见逼，女的表情僵硬不断发出投币式摇摇车一样的公式淫叫，男的每抽插十到十五下必假装脱轨故意滑出来一下以冷却CD，俩人的生殖器官都被一辈子不见得修剪一次的阴毛遮挡的严严实实，五短身材像两只刮了毛的土拨鼠在争夺地盘，标题还都起的贼鸡巴夸张，什么某地猛男操的拜金骚逼直求饶，中国第一巨根两鞭征服媚黑婊种种网文风章节名，点进去后发现货不对板令人大失所望，和这个民族一样充满了虚伪与欺骗\n\n5. 中国男人性饥渴已经到了走火入魔的地步，是全世界性压抑最严重的民族，中国男人小时候就没有接受性教育，生活中对性闭口不谈，共产党网上严格审查色情内容，但网络上小仙女集美却能合法打压贬低男性，就连合法的色情网站都不存在，更别说卖淫嫖娼了，一旦翻墙，中国男人瞬间都成了下体人\n\n6. 咱们翻墙出来就是来看殖人乐子和黄色的，咱妈为什么设置一道墙，就是怕智商低、没脑子的人被洗脑，你看推特上的人都是什么成色就知道了，翻了两天墙就觉得美国的月亮比中国的圆，美国的屎都是香的，咱别理他们那些殖人，乖"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 6345,
+          "like_count": 227,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "中国人翻墙看黄现状：\n\n“我翻墙出来只做三件事，看黄，爱包，骂人”\n\n----粉蛆\n\n1.先在q群叫爹求教程，50腊肉币包你翻墙一次； https://t.co/ex1pFHrspX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2103714839214670246",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 175,
+          "like_count": 2335,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 614
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T16:51:47.000Z",
+        "description": "孕期脾气暴躁，发现织女、龟男、粉蛆一律拉黑\n极度媚黑，老公是黑人，迪克19厘米\n此生无悔入华夏，来世还做中国人\n上推特之前：习近平是谁，不认识\n上推特之后：老人瞻仰，轻关易道，通商宽衣，撒胡椒面，金科律玉，精甚细腻，颐使气指，疯狂宇宙，萨格尔王，PM250，疫情迁灭战，兵帮外交，沉zháo应对",
+        "id": "2090119365542694912",
+        "is_identity_verified": false,
+        "location": "以色列",
+        "most_recent_tweet_id": "2103711046230012028",
+        "name": "支猪泡水中11🇮🇱🇺🇸两日则肥白",
+        "pinned_tweet_id": "2102396689382334685",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090119365542694912/1787158458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090120075093176320/deK4OUrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 166,
+          "like_count": 7388,
+          "listed_count": 1,
+          "media_count": 633,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "Diaotaida11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

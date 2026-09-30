@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100252781672354097",
+    "created_at": "2026-09-18T14:48:48.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100960233225060499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038693274907709440",
+          "start": 0,
+          "username": "user_name_0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100960233225060499",
+    "in_reply_to_user_id": "2038693274907709440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100765240149623195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user_name_0401 日誌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100252781672354097",
+        "created_at": "2026-09-18T14:48:48.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100960233225060499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038693274907709440",
+              "start": 0,
+              "username": "user_name_0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100960233225060499",
+        "in_reply_to_user_id": "2038693274907709440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100765240149623195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user_name_0401 日誌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038693274907709440",
+        "conversation_id": "2100252781672354097",
+        "created_at": "2026-09-18T01:53:58.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100765240149623195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056703191597920256",
+              "start": 0,
+              "username": "Mandrake8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100765240149623195",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100252781672354097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandrake8964 問問這是什麼app&gt;&lt;"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100960233225060499",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 153,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-30T19:05:25.000Z",
+        "description": "只是發我想發的\n個人資訊什麼的不重要",
+        "id": "2038693274907709440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100933788067119388",
+        "name": "澪★彡",
+        "pinned_tweet_id": "2041241009515086180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038693274907709440/1785056397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081302835401224192/MWx7PtTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 90,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "user_name_0401",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

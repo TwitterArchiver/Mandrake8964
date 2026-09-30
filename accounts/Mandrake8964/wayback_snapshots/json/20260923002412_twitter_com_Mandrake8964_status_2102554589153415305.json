@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2102554589153415305",
+    "created_at": "2026-09-23T00:24:12.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102554589153415305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mandrake8964/s…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/Mandrake8964/status/2102553657304899597",
+          "start": 143,
+          "url": "https://t.co/bYggDB8xmA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102554589153415305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102553657304899597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🟩避孕药（情侶之間發生性行為後採取避孕措施挺正常的）\n🟩婚前性行为（現在什麼時代了還搞）\n🟩多元恋爱（不喜歡就不談這種唄）\n🟩赌博（關你屁事）\n🟩死刑（都進監獄了還不如死掉）\n🟩动物实验（科技發展離不開任何一個為此付出生命的動物）\n🟩克隆（這種事一輩子都做不到你頭上你還是別瞎操心了） https://t.co/bYggDB8xmA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2102554589153415305",
+        "created_at": "2026-09-23T00:24:12.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102554589153415305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mandrake8964/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Mandrake8964/status/2102553657304899597",
+              "start": 143,
+              "url": "https://t.co/bYggDB8xmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102554589153415305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102553657304899597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟩避孕药（情侶之間發生性行為後採取避孕措施挺正常的）\n🟩婚前性行为（現在什麼時代了還搞）\n🟩多元恋爱（不喜歡就不談這種唄）\n🟩赌博（關你屁事）\n🟩死刑（都進監獄了還不如死掉）\n🟩动物实验（科技發展離不開任何一個為此付出生命的動物）\n🟩克隆（這種事一輩子都做不到你頭上你還是別瞎操心了） https://t.co/bYggDB8xmA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2102553657304899597",
+        "created_at": "2026-09-23T00:20:30.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102553657304899597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seeFvn/status/…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/seeFvn/status/2101655445807251816",
+              "start": 145,
+              "url": "https://t.co/EUh793NdxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102553657304899597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101655445807251816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你認為什麼在道德上是可接受的\n🟩墮胎（總比兩個人天天草逼又沒錢養孩子讓孩子痛苦一生好）\n🟩安樂死（好想這麼做）\n🟩同性戀（自己談戀愛關別人屁事）\n🟩性別轉換（這也有人雷？管你卵事阿）\n🟩色情製品（人有性慾不是很正常嗎）\n🟩離婚（兩個人不愛了離婚很正常）\n沒有TwitterPro字數上限了 https://t.co/EUh793NdxR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2102554589153415305",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 162,
+          "like_count": 2064,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

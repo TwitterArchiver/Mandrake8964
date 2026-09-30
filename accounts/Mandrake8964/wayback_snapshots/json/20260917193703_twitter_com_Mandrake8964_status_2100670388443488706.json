@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100431341510926336"
+      ],
+      "media_source_tweet_id": [
+        "2100431346065870949"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100670388443488706",
+    "created_at": "2026-09-17T19:37:03.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100670388443488706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003870319304757252",
+          "start": 3,
+          "username": "7e7_o_o_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kYWUsvjcl",
+          "end": 42,
+          "expanded_url": "https://x.com/7e7_o_o_/status/2100431346065870949/photo/1",
+          "media_key": "3_2100431341510926336",
+          "start": 19,
+          "url": "https://t.co/8kYWUsvjcl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100670388443488706",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100431341510926336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100431346065870949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7e7_o_o_: コロサン https://t.co/8kYWUsvjcl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2100431341510926336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY7LTHbIAAHDcN.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100431341510926336"
+          ],
+          "media_source_tweet_id": [
+            "2100431346065870949"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100670388443488706",
+        "created_at": "2026-09-17T19:37:03.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100670388443488706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003870319304757252",
+              "start": 3,
+              "username": "7e7_o_o_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kYWUsvjcl",
+              "end": 42,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100431346065870949/photo/1",
+              "media_key": "3_2100431341510926336",
+              "start": 19,
+              "url": "https://t.co/8kYWUsvjcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100670388443488706",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100431341510926336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100431346065870949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7e7_o_o_: コロサン https://t.co/8kYWUsvjcl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100431341510926336"
+          ]
+        },
+        "author_id": "2003870319304757252",
+        "conversation_id": "2100431346065870949",
+        "created_at": "2026-09-17T03:47:11.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100431346065870949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kYWUsvjcl",
+              "end": 28,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100431346065870949/photo/1",
+              "media_key": "3_2100431341510926336",
+              "start": 5,
+              "url": "https://t.co/8kYWUsvjcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100431346065870949",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100431341510926336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 631,
+          "impression_count": 44240,
+          "like_count": 7241,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 958
+        },
+        "reply_settings": "everyone",
+        "text": "コロサン https://t.co/8kYWUsvjcl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100670388443488706",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 150,
+          "like_count": 1870,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-24T16:48:16.000Z",
+        "description": "(なの)ですhttps://t.co/DW2VDZAa35",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/asuuu_o_o_",
+                "end": 29,
+                "expanded_url": "https://lit.link/asuuu_o_o_",
+                "start": 6,
+                "url": "https://t.co/DW2VDZAa35"
+              }
+            ]
+          }
+        },
+        "id": "2003870319304757252",
+        "is_identity_verified": false,
+        "location": "習作雑多",
+        "most_recent_tweet_id": "2100647684537557442",
+        "name": "7ノ",
+        "pinned_tweet_id": "2029631946012381651",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086476671599984640/fja7CM9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8647,
+          "following_count": 37,
+          "like_count": 2621,
+          "listed_count": 23,
+          "media_count": 115,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "7e7_o_o_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

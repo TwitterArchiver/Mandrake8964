@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103065644673675264"
+      ],
+      "media_source_tweet_id": [
+        "2103065655654391988"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2103404884754411879",
+    "created_at": "2026-09-25T08:42:58.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T09:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103404884754411879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2rmngJEqJV",
+          "end": 46,
+          "expanded_url": "https://x.com/hanabitaminc/status/2103065655654391988/photo/1",
+          "media_key": "3_2103065644673675264",
+          "start": 23,
+          "url": "https://t.co/2rmngJEqJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103404884754411879",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103065644673675264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 205
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103065655654391988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: 作戦会議 https://t.co/2rmngJEqJV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3062,
+        "media_key": "3_2103065644673675264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS-XD7IaMAA6Vxe.jpg",
+        "width": 2186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103065644673675264"
+          ],
+          "media_source_tweet_id": [
+            "2103065655654391988"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2103404884754411879",
+        "created_at": "2026-09-25T08:42:58.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103404884754411879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rmngJEqJV",
+              "end": 46,
+              "expanded_url": "https://x.com/hanabitaminc/status/2103065655654391988/photo/1",
+              "media_key": "3_2103065644673675264",
+              "start": 23,
+              "url": "https://t.co/2rmngJEqJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103404884754411879",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103065644673675264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 205
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103065655654391988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: 作戦会議 https://t.co/2rmngJEqJV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103065644673675264"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "2103065655654391988",
+        "created_at": "2026-09-24T10:15:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103065655654391988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rmngJEqJV",
+              "end": 28,
+              "expanded_url": "https://x.com/hanabitaminc/status/2103065655654391988/photo/1",
+              "media_key": "3_2103065644673675264",
+              "start": 5,
+              "url": "https://t.co/2rmngJEqJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103065655654391988",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103065644673675264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 22874,
+          "like_count": 2831,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "作戦会議 https://t.co/2rmngJEqJV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2103404884754411879",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 174,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです \n (現在、ご依頼とDMでのお返事できかねます)\n🐶→@hanabitaminb\nインスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 78,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 55,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "is_identity_verified": false,
+        "location": "ぽかぽかホットカーペットランド",
+        "most_recent_tweet_id": "2103072848768340337",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "2100541503198392339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1266206715839606784/1674174036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132907,
+          "following_count": 144,
+          "like_count": 56574,
+          "listed_count": 804,
+          "media_count": 294,
+          "tweet_count": 39374
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

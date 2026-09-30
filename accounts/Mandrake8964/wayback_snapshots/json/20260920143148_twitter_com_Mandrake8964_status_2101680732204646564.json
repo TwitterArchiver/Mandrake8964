@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2101680732204646564",
+    "created_at": "2026-09-20T14:31:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T15:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101680732204646564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101680732204646564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101085484441387422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 希望大家都看一下这份资料，看看男方这种特权阶级妈宝男巨婴怎么把自己扮演成受害者的。肖同学之前就有过偷窥女厕、索要女同学贴身衣物的前科，妈妈是公司总经理爷爷是东风汽车副董，花上百万人民币去我本科学校（杜克）当交换生，你们真觉得这位是什么穷…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101085478728630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiOHGJaAAAMGII.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101085478753898496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiOHGPbkAAiCVH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101085478758096896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiOHGQboAAOI4H.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2101680732204646564",
+        "created_at": "2026-09-20T14:31:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101680732204646564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101680732204646564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101085484441387422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 希望大家都看一下这份资料，看看男方这种特权阶级妈宝男巨婴怎么把自己扮演成受害者的。肖同学之前就有过偷窥女厕、索要女同学贴身衣物的前科，妈妈是公司总经理爷爷是东风汽车副董，花上百万人民币去我本科学校（杜克）当交换生，你们真觉得这位是什么穷…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101085478728630272",
+            "3_2101085478753898496",
+            "3_2101085478758096896"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2101085484441387422",
+        "created_at": "2026-09-18T23:06:30.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101085484441387422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrOFYMXwd9",
+              "end": 151,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2101085484441387422/photo/1",
+              "media_key": "3_2101085478728630272",
+              "start": 128,
+              "url": "https://t.co/JrOFYMXwd9"
+            },
+            {
+              "display_url": "pic.x.com/JrOFYMXwd9",
+              "end": 151,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2101085484441387422/photo/1",
+              "media_key": "3_2101085478753898496",
+              "start": 128,
+              "url": "https://t.co/JrOFYMXwd9"
+            },
+            {
+              "display_url": "pic.x.com/JrOFYMXwd9",
+              "end": 151,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2101085484441387422/photo/1",
+              "media_key": "3_2101085478758096896",
+              "start": 128,
+              "url": "https://t.co/JrOFYMXwd9"
+            },
+            {
+              "display_url": "x.com/beiyan_yunyi/s…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/beiyan_yunyi/status/2100766236892364935",
+              "start": 152,
+              "url": "https://t.co/m1YWPfKMJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101085484441387422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101085478728630272"
+          },
+          {
+            "media_key": "3_2101085478753898496"
+          },
+          {
+            "media_key": "3_2101085478758096896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 40228,
+          "like_count": 882,
+          "quote_count": 11,
+          "reply_count": 76,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100766236892364935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望大家都看一下这份资料，看看男方这种特权阶级妈宝男巨婴怎么把自己扮演成受害者的。肖同学之前就有过偷窥女厕、索要女同学贴身衣物的前科，妈妈是公司总经理爷爷是东风汽车副董，花上百万人民币去我本科学校（杜克）当交换生，你们真觉得这位是什么穷苦家庭老实大学生？ https://t.co/JrOFYMXwd9 https://t.co/m1YWPfKMJH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2101680732204646564",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 160,
+          "like_count": 1996,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101677960369517035",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11185,
+          "following_count": 1369,
+          "like_count": 10605,
+          "listed_count": 16,
+          "media_count": 506,
+          "tweet_count": 6467
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097756687427878924"
+      ],
+      "media_source_tweet_id": [
+        "2097756694327570469"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2097869512506757286",
+    "created_at": "2026-09-10T02:07:22.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097869512506757286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811565420027215874",
+          "start": 3,
+          "username": "cryangelxz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZuyNtSS6tm",
+          "end": 47,
+          "expanded_url": "https://x.com/cryangelxz/status/2097756694327570469/photo/1",
+          "media_key": "3_2097756687427878924",
+          "start": 24,
+          "url": "https://t.co/ZuyNtSS6tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097869512506757286",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097756687427878924"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 648
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097756694327570469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cryangelxz: me when https://t.co/ZuyNtSS6tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_2097756687427878924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy6l8NWwAwr74Z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097756687427878924"
+          ],
+          "media_source_tweet_id": [
+            "2097756694327570469"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2097869512506757286",
+        "created_at": "2026-09-10T02:07:22.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097869512506757286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811565420027215874",
+              "start": 3,
+              "username": "cryangelxz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuyNtSS6tm",
+              "end": 47,
+              "expanded_url": "https://x.com/cryangelxz/status/2097756694327570469/photo/1",
+              "media_key": "3_2097756687427878924",
+              "start": 24,
+              "url": "https://t.co/ZuyNtSS6tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097869512506757286",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097756687427878924"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 648
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097756694327570469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cryangelxz: me when https://t.co/ZuyNtSS6tm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097756687427878924"
+          ]
+        },
+        "author_id": "1811565420027215874",
+        "conversation_id": "2097756694327570469",
+        "created_at": "2026-09-09T18:39:05.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097756694327570469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuyNtSS6tm",
+              "end": 31,
+              "expanded_url": "https://x.com/cryangelxz/status/2097756694327570469/photo/1",
+              "media_key": "3_2097756687427878924",
+              "start": 8,
+              "url": "https://t.co/ZuyNtSS6tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097756694327570469",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097756687427878924"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 14250,
+          "like_count": 3139,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "me when https://t.co/ZuyNtSS6tm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2097869512506757286",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 132,
+          "like_count": 1731,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-12T00:57:39.000Z",
+        "description": "#suicidetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "suicidetwt"
+              }
+            ]
+          }
+        },
+        "id": "1811565420027215874",
+        "is_identity_verified": false,
+        "location": "Sao Paulo, Brazil",
+        "most_recent_tweet_id": "2097858767190671449",
+        "name": "★",
+        "pinned_tweet_id": "1941207456912376200",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811565420027215874/1757970612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097859689048571904/QOE5Fsku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 111,
+          "like_count": 11412,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 7768
+        },
+        "url": "",
+        "username": "cryangelxz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

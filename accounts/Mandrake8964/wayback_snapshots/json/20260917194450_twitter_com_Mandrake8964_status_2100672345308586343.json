@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100516758763548672",
+        "3_2100516758813822976",
+        "3_2100516758771912704",
+        "3_2100516758767702016"
+      ],
+      "media_source_tweet_id": [
+        "2100516768020394059",
+        "2100516768020394059",
+        "2100516768020394059",
+        "2100516768020394059"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100672345308586343",
+    "created_at": "2026-09-17T19:44:50.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100672345308586343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1437550223501389824",
+          "start": 3,
+          "username": "simazarashi_le_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ID8wjMla1",
+          "end": 50,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+          "media_key": "3_2100516758763548672",
+          "start": 27,
+          "url": "https://t.co/1ID8wjMla1"
+        },
+        {
+          "display_url": "pic.x.com/1ID8wjMla1",
+          "end": 50,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+          "media_key": "3_2100516758813822976",
+          "start": 27,
+          "url": "https://t.co/1ID8wjMla1"
+        },
+        {
+          "display_url": "pic.x.com/1ID8wjMla1",
+          "end": 50,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+          "media_key": "3_2100516758771912704",
+          "start": 27,
+          "url": "https://t.co/1ID8wjMla1"
+        },
+        {
+          "display_url": "pic.x.com/1ID8wjMla1",
+          "end": 50,
+          "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+          "media_key": "3_2100516758767702016",
+          "start": 27,
+          "url": "https://t.co/1ID8wjMla1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100672345308586343",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100516758763548672"
+      },
+      {
+        "media_key": "3_2100516758813822976"
+      },
+      {
+        "media_key": "3_2100516758771912704"
+      },
+      {
+        "media_key": "3_2100516758767702016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100516768020394059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simazarashi_le_: 赤シリーズ https://t.co/1ID8wjMla1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1558,
+        "media_key": "3_2100516758763548672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaI3PLbMAANgmZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2100516758813822976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaI3PXaUAAoh3I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 708,
+        "media_key": "3_2100516758771912704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaI3PNa0AAr6b8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 580,
+        "media_key": "3_2100516758767702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaI3PMakAAQnMS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100516758763548672",
+            "3_2100516758813822976",
+            "3_2100516758771912704",
+            "3_2100516758767702016"
+          ],
+          "media_source_tweet_id": [
+            "2100516768020394059",
+            "2100516768020394059",
+            "2100516768020394059",
+            "2100516768020394059"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100672345308586343",
+        "created_at": "2026-09-17T19:44:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100672345308586343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1437550223501389824",
+              "start": 3,
+              "username": "simazarashi_le_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 50,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758763548672",
+              "start": 27,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 50,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758813822976",
+              "start": 27,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 50,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758771912704",
+              "start": 27,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 50,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758767702016",
+              "start": 27,
+              "url": "https://t.co/1ID8wjMla1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100672345308586343",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100516758763548672"
+          },
+          {
+            "media_key": "3_2100516758813822976"
+          },
+          {
+            "media_key": "3_2100516758771912704"
+          },
+          {
+            "media_key": "3_2100516758767702016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100516768020394059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simazarashi_le_: 赤シリーズ https://t.co/1ID8wjMla1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100516758763548672",
+            "3_2100516758813822976",
+            "3_2100516758771912704",
+            "3_2100516758767702016"
+          ]
+        },
+        "author_id": "1437550223501389824",
+        "conversation_id": "2100516768020394059",
+        "created_at": "2026-09-17T09:26:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100516768020394059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 29,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758763548672",
+              "start": 6,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 29,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758813822976",
+              "start": 6,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 29,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758771912704",
+              "start": 6,
+              "url": "https://t.co/1ID8wjMla1"
+            },
+            {
+              "display_url": "pic.x.com/1ID8wjMla1",
+              "end": 29,
+              "expanded_url": "https://x.com/simazarashi_le_/status/2100516768020394059/photo/1",
+              "media_key": "3_2100516758767702016",
+              "start": 6,
+              "url": "https://t.co/1ID8wjMla1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100516768020394059",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100516758763548672"
+          },
+          {
+            "media_key": "3_2100516758813822976"
+          },
+          {
+            "media_key": "3_2100516758771912704"
+          },
+          {
+            "media_key": "3_2100516758767702016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 4079,
+          "like_count": 439,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "赤シリーズ https://t.co/1ID8wjMla1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100672345308586343",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 150,
+          "like_count": 1877,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-13T22:54:52.000Z",
+        "description": "個人様企業様ご依頼要相談\n可愛いと爽やかで寂しい絵と真っ赤な女の子が得意です\nartwork ゐろは苹果など\nサブ垢＠kose_sabu\n壁打ち垢＠yumegamutai\n✉️koseazi00@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "kose_sabu"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "yumegamutai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/87134506",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/87134506",
+                "start": 0,
+                "url": "https://t.co/dQ75bb25u1"
+              }
+            ]
+          }
+        },
+        "id": "1437550223501389824",
+        "is_identity_verified": false,
+        "location": "依頼はDMかメールアドレスにお願いします",
+        "most_recent_tweet_id": "2100552908202971412",
+        "name": "小瀬あじ",
+        "pinned_tweet_id": "2099095011837215045",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1437550223501389824/1777796886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076816214727512064/G3XEJWC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8811,
+          "following_count": 386,
+          "like_count": 5428,
+          "listed_count": 55,
+          "media_count": 160,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/dQ75bb25u1",
+        "username": "simazarashi_le_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

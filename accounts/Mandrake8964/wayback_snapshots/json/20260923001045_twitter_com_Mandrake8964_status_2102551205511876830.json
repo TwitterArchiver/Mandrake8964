@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102551188080345088",
+        "3_2102551196238299136"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2102551205511876830",
+    "created_at": "2026-09-23T00:10:45.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102551205511876830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/teuKIC1zni",
+          "end": 122,
+          "expanded_url": "https://x.com/Mandrake8964/status/2102551205511876830/photo/1",
+          "media_key": "3_2102551188080345088",
+          "start": 99,
+          "url": "https://t.co/teuKIC1zni"
+        },
+        {
+          "display_url": "pic.x.com/teuKIC1zni",
+          "end": 122,
+          "expanded_url": "https://x.com/Mandrake8964/status/2102551205511876830/photo/1",
+          "media_key": "3_2102551196238299136",
+          "start": 99,
+          "url": "https://t.co/teuKIC1zni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102551205511876830",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102551188080345088"
+      },
+      {
+        "media_key": "3_2102551196238299136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這個公畜天天在空間虛空索敵罵人的😂\n多看了幾篇貼文發現是水晶臘肉粉絲感觉釋懷了😂😂\n楊景媛事件後續是一點不看的😂\n你們維護的那個男的可不是什麼窮學生😂\n平民幫少爺撕咬全世界女人是不是感覺老舒服了😂 https://t.co/teuKIC1zni"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2102551188080345088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3DKm-awAAlL-Q.jpg",
+        "width": 1260
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102551196238299136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3DLFXbQAAVc6V.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102551188080345088",
+            "3_2102551196238299136"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2102551205511876830",
+        "created_at": "2026-09-23T00:10:45.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102551205511876830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/teuKIC1zni",
+              "end": 122,
+              "expanded_url": "https://x.com/Mandrake8964/status/2102551205511876830/photo/1",
+              "media_key": "3_2102551188080345088",
+              "start": 99,
+              "url": "https://t.co/teuKIC1zni"
+            },
+            {
+              "display_url": "pic.x.com/teuKIC1zni",
+              "end": 122,
+              "expanded_url": "https://x.com/Mandrake8964/status/2102551205511876830/photo/1",
+              "media_key": "3_2102551196238299136",
+              "start": 99,
+              "url": "https://t.co/teuKIC1zni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102551205511876830",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102551188080345088"
+          },
+          {
+            "media_key": "3_2102551196238299136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這個公畜天天在空間虛空索敵罵人的😂\n多看了幾篇貼文發現是水晶臘肉粉絲感觉釋懷了😂😂\n楊景媛事件後續是一點不看的😂\n你們維護的那個男的可不是什麼窮學生😂\n平民幫少爺撕咬全世界女人是不是感覺老舒服了😂 https://t.co/teuKIC1zni"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2102551205511876830",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 162,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

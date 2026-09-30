@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098003564031561728"
+      ],
+      "media_source_tweet_id": [
+        "2098005320543191390"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2098020522265338025",
+    "created_at": "2026-09-10T12:07:26.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098020522265338025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "752144887575814144",
+          "start": 3,
+          "username": "heripiro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJTLDWY1op",
+          "end": 45,
+          "expanded_url": "https://x.com/heripiro/status/2098005320543191390/photo/1",
+          "media_key": "3_2098003564031561728",
+          "start": 22,
+          "url": "https://t.co/LJTLDWY1op"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098020522265338025",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098003564031561728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098005320543191390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @heripiro: 外ハネﾁｬﾝ… https://t.co/LJTLDWY1op"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2098003564031561728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR2bIDOa0AAWwiF.jpg",
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098003564031561728"
+          ],
+          "media_source_tweet_id": [
+            "2098005320543191390"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2098020522265338025",
+        "created_at": "2026-09-10T12:07:26.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098020522265338025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "752144887575814144",
+              "start": 3,
+              "username": "heripiro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJTLDWY1op",
+              "end": 45,
+              "expanded_url": "https://x.com/heripiro/status/2098005320543191390/photo/1",
+              "media_key": "3_2098003564031561728",
+              "start": 22,
+              "url": "https://t.co/LJTLDWY1op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098020522265338025",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098003564031561728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098005320543191390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @heripiro: 外ハネﾁｬﾝ… https://t.co/LJTLDWY1op"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098003564031561728"
+          ]
+        },
+        "author_id": "752144887575814144",
+        "conversation_id": "2098005320543191390",
+        "created_at": "2026-09-10T11:07:02.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098005320543191390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJTLDWY1op",
+              "end": 31,
+              "expanded_url": "https://x.com/heripiro/status/2098005320543191390/photo/1",
+              "media_key": "3_2098003564031561728",
+              "start": 8,
+              "url": "https://t.co/LJTLDWY1op"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098005320543191390",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098003564031561728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 7027,
+          "like_count": 699,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "外ハネﾁｬﾝ… https://t.co/LJTLDWY1op"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2098020522265338025",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 132,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-10T14:18:10.000Z",
+        "description": "ご依頼はこちら➡︎ heripiro@gmail.com ◆https://t.co/tDp0keEy73◆FANBOX https://t.co/hCY4UzzUQJ ◆Skeb https://t.co/0U5ieXDxmF◆さぶ @suripiro◆ #ぴろり王国目安箱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 129,
+                "tag": "ぴろり王国目安箱"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "suripiro"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heripiro.tumblr.com",
+                "end": 53,
+                "expanded_url": "http://heripiro.tumblr.com",
+                "start": 30,
+                "url": "https://t.co/tDp0keEy73"
+              },
+              {
+                "display_url": "heripiro.fanbox.cc",
+                "end": 84,
+                "expanded_url": "http://heripiro.fanbox.cc",
+                "start": 61,
+                "url": "https://t.co/hCY4UzzUQJ"
+              },
+              {
+                "display_url": "skeb.jp/@heripiro",
+                "end": 114,
+                "expanded_url": "http://skeb.jp/@heripiro",
+                "start": 91,
+                "url": "https://t.co/0U5ieXDxmF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/heripiro",
+                "end": 23,
+                "expanded_url": "https://potofu.me/heripiro",
+                "start": 0,
+                "url": "https://t.co/GaulCjK8nu"
+              }
+            ]
+          }
+        },
+        "id": "752144887575814144",
+        "is_identity_verified": false,
+        "location": "PiRORIKINGDOM",
+        "most_recent_tweet_id": "2098005320543191390",
+        "name": "ぴろ瀬@こみトレ4号館Ｃ28b",
+        "pinned_tweet_id": "2095095212318359814",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/752144887575814144/1665592058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530219124478988288/9CjFV2iz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78368,
+          "following_count": 454,
+          "like_count": 6714,
+          "listed_count": 808,
+          "media_count": 710,
+          "tweet_count": 9583
+        },
+        "url": "https://t.co/GaulCjK8nu",
+        "username": "heripiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

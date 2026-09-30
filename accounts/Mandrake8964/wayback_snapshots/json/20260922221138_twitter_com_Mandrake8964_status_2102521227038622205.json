@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2102521227038622205",
+    "created_at": "2026-09-22T22:11:38.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T23:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102521227038622205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu_lu43456/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/liu_lu43456/status/2102202514729038062",
+          "start": 17,
+          "url": "https://t.co/Otmfjr2Big"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102521227038622205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102202514729038062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟中國人科普毒品比對牛彈琴還困難 https://t.co/Otmfjr2Big"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_2102202508781453313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyGCzXagAEnG1R.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2102521227038622205",
+        "created_at": "2026-09-22T22:11:38.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T23:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102521227038622205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_lu43456/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/liu_lu43456/status/2102202514729038062",
+              "start": 17,
+              "url": "https://t.co/Otmfjr2Big"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102521227038622205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102202514729038062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟中國人科普毒品比對牛彈琴還困難 https://t.co/Otmfjr2Big"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102202508781453313"
+          ]
+        },
+        "author_id": "1912916776519954432",
+        "conversation_id": "2102202514729038062",
+        "created_at": "2026-09-22T01:05:11.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102202514729038062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51N3JfCqUX",
+              "end": 151,
+              "expanded_url": "https://x.com/liu_lu43456/status/2102202514729038062/photo/1",
+              "media_key": "3_2102202508781453313",
+              "start": 128,
+              "url": "https://t.co/51N3JfCqUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102202514729038062",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102202508781453313"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3372,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "论国内对毒品的危害认知，一个劝人不要吸毒的博主说这辈子戒过的毒品和难受程度的排名，博主给酒精排到了名列前茅，我顺手也科普了酒精的危害和成瘾性，结果一堆人来骂我，为酒精开脱，和50g冰毒的毒性对标至少也要几十斤的乙醇来比吧，你们他妈的愚昧，无知，自大，狂妄 https://t.co/51N3JfCqUX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2102521227038622205",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 162,
+          "like_count": 2055,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "🟪MBTI:INTP-T🟣/5w4🧬/处女座♍/MtX🏳️‍⚧️/给点钱钱给我钱/平等歧视所有人/禁止政治讨论吵架/✟昇天✟平易近人/当我好友吧💗/聊天消失/难主动/行星小鹿，游荡宇宙/",
+        "id": "1912916776519954432",
+        "is_identity_verified": false,
+        "location": "石家庄市",
+        "most_recent_tweet_id": "2102407856297497070",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "2089748590751359342",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912916776519954432/1753627866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065994757302566912/A2aCzvVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 143,
+          "like_count": 422,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 2832
+        },
+        "url": "",
+        "username": "liu_lu43456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

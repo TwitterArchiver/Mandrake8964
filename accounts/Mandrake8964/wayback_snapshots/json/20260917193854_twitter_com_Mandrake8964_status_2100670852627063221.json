@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100670852627063221",
+    "created_at": "2026-09-17T19:38:54.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100670852627063221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiGuang_Lab/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/JiGuang_Lab/status/2100103238309777809",
+          "start": 26,
+          "url": "https://t.co/2nfsxfWLs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100670852627063221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100103238309777809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前男友看見我在書桌旁邊蹲著吸過後還說他也要試試hh https://t.co/2nfsxfWLs7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100670852627063221",
+        "created_at": "2026-09-17T19:38:54.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100670852627063221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2100103238309777809",
+              "start": 26,
+              "url": "https://t.co/2nfsxfWLs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100670852627063221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100103238309777809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前男友看見我在書桌旁邊蹲著吸過後還說他也要試試hh https://t.co/2nfsxfWLs7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2100103238309777809",
+        "created_at": "2026-09-16T06:03:24.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100103238309777809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100103238309777809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7252,
+          "like_count": 156,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "普通人不会和地雷妹在一块\n\n1.滥用精神物质就是一个很反感的行为，发现直接他妈报警了\n\n2.情绪问题，在普通人眼里，就是没事找事，吃饱了撑得\n\n3.地雷妹愿意为你死不是因为爱你，而是命健"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100670852627063221",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 150,
+          "like_count": 1871,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "天黑不怕，我们有化学极乐\n我们的宗旨是收容、保护与减害。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp527hL"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100601421444030663",
+        "name": "极光实验室2026",
+        "pinned_tweet_id": "2097163301998428567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097848768402219009/Ll-1OGSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 1561,
+          "like_count": 1040,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/TdRUp527hL",
+        "username": "JiGuang_Lab",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

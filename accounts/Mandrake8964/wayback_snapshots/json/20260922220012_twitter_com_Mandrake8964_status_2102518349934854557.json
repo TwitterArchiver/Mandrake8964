@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2101968010919735673",
+    "created_at": "2026-09-22T22:00:12.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T23:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102518349934854557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092184987571482624",
+          "start": 0,
+          "username": "TaoistYouth6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102518349934854557",
+    "in_reply_to_user_id": "2092184987571482624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101968010919735673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoistYouth6 我他媽笑死了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2101968005739794432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuww7dbUAAEFuw.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2101968010919735673",
+        "created_at": "2026-09-22T22:00:12.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T23:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102518349934854557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092184987571482624",
+              "start": 0,
+              "username": "TaoistYouth6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102518349934854557",
+        "in_reply_to_user_id": "2092184987571482624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101968010919735673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoistYouth6 我他媽笑死了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101968005739794432"
+          ]
+        },
+        "author_id": "2092184987571482624",
+        "conversation_id": "2101968010919735673",
+        "created_at": "2026-09-21T09:33:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101968010919735673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiNTcgc3vK",
+              "end": 23,
+              "expanded_url": "https://x.com/TaoistYouth6/status/2101968010919735673/photo/1",
+              "media_key": "3_2101968005739794432",
+              "start": 0,
+              "url": "https://t.co/fiNTcgc3vK"
+            },
+            {
+              "display_url": "x.com/Caserabogiya/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Caserabogiya/status/2100929348387958853",
+              "start": 24,
+              "url": "https://t.co/MvrE2Zp9Bw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101968010919735673",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101968005739794432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 204605,
+          "like_count": 2241,
+          "quote_count": 9,
+          "reply_count": 67,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100929348387958853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/fiNTcgc3vK https://t.co/MvrE2Zp9Bw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2102518349934854557",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 162,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T09:41:53.000Z",
+        "description": "还记得我吗，如果记得就关注一下吧。\n右翼自由派，理想主义者，道教善信，现居日本，反对中共。\n愿我们期冀的民主之花，在不久的将来，开遍华夏的每一个角落。福生无量\n六世：@TaoistYouth7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "TaoistYouth7"
+              }
+            ]
+          }
+        },
+        "id": "2092184987571482624",
+        "is_identity_verified": false,
+        "location": "日本东京",
+        "most_recent_tweet_id": "2102425844400771389",
+        "name": "Taoist Youth🇨🇳🇯🇵（五世）",
+        "pinned_tweet_id": "2102261143318192219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092184987571482624/1789137049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092185924788695040/5YqeukQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 81,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "TaoistYouth6",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

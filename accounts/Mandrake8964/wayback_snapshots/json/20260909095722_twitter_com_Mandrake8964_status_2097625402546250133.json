@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095014351120072704"
+      ],
+      "media_source_tweet_id": [
+        "2095014359957414270"
+      ]
+    },
+    "author_id": "2056703191597920256",
+    "conversation_id": "2097625402546250133",
+    "created_at": "2026-09-09T09:57:22.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097625402546250133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958182602839609344",
+          "start": 3,
+          "username": "Jangiteole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4C4ORH1Fi",
+          "end": 39,
+          "expanded_url": "https://x.com/Jangiteole/status/2095014359957414270/photo/1",
+          "media_key": "3_2095014351120072704",
+          "start": 16,
+          "url": "https://t.co/W4C4ORH1Fi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097625402546250133",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095014351120072704"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095014359957414270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jangiteole: https://t.co/W4C4ORH1Fi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2095014351120072704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL8c9XbgAAKgSV.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095014351120072704"
+          ],
+          "media_source_tweet_id": [
+            "2095014359957414270"
+          ]
+        },
+        "author_id": "2056703191597920256",
+        "conversation_id": "2097625402546250133",
+        "created_at": "2026-09-09T09:57:22.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097625402546250133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958182602839609344",
+              "start": 3,
+              "username": "Jangiteole"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4C4ORH1Fi",
+              "end": 39,
+              "expanded_url": "https://x.com/Jangiteole/status/2095014359957414270/photo/1",
+              "media_key": "3_2095014351120072704",
+              "start": 16,
+              "url": "https://t.co/W4C4ORH1Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097625402546250133",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095014351120072704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095014359957414270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jangiteole: https://t.co/W4C4ORH1Fi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095014351120072704"
+          ]
+        },
+        "author_id": "1958182602839609344",
+        "conversation_id": "2095014359957414270",
+        "created_at": "2026-09-02T05:02:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095014359957414270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4C4ORH1Fi",
+              "end": 23,
+              "expanded_url": "https://x.com/Jangiteole/status/2095014359957414270/photo/1",
+              "media_key": "3_2095014351120072704",
+              "start": 0,
+              "url": "https://t.co/W4C4ORH1Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095014359957414270",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095014351120072704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 46150,
+          "like_count": 4938,
+          "quote_count": 54,
+          "reply_count": 20,
+          "retweet_count": 1145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W4C4ORH1Fi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖LGBTQ+友好‖查主頁成分回fo‖討厭NSFW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2097625402546250133",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 130,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T15:01:37.000Z",
+        "description": "장기적 장기 연습 \n크레페:https://t.co/ZVKeoblKhN \nVgen:https://t.co/ee8Frq4c6L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kre.pe/FlUs",
+                "end": 38,
+                "expanded_url": "https://kre.pe/FlUs",
+                "start": 15,
+                "url": "https://t.co/ZVKeoblKhN"
+              },
+              {
+                "display_url": "vgen.co/Jangiteole",
+                "end": 68,
+                "expanded_url": "https://vgen.co/Jangiteole",
+                "start": 45,
+                "url": "https://t.co/ee8Frq4c6L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/Jangiteole",
+                "end": 23,
+                "expanded_url": "https://asked.kr/Jangiteole",
+                "start": 0,
+                "url": "https://t.co/ujguw1bhRW"
+              }
+            ]
+          }
+        },
+        "id": "1958182602839609344",
+        "is_identity_verified": false,
+        "location": "ylmk7791@naver.com",
+        "most_recent_tweet_id": "2097579316892844379",
+        "name": "장기털이",
+        "pinned_tweet_id": "2087400170380276172",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958182602839609344/1776751392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071505115333410816/SOR_W5gR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 30,
+          "like_count": 1167,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/ujguw1bhRW",
+        "username": "Jangiteole",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

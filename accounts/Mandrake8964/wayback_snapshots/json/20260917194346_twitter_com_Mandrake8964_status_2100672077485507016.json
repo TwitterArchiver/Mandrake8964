@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2056703191597920256",
+    "conversation_id": "2100672077485507016",
+    "created_at": "2026-09-17T19:43:46.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T20:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100672077485507016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003870319304757252",
+          "start": 3,
+          "username": "7e7_o_o_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100672077485507016",
+    "lang": "bn",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 423
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100433870596518054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7e7_o_o_: ౨ৎ ⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣦⠀⠀✧\n⠀⠀⣠⣤⣤⣄⣀⣾⣿⠟⠛⠻⢿⣷⠀\n⢰⣿⡿⠛⠙⠻⣿⣿⠁⠀⠀⠀⢸⣿⡇\n⢿⣿⣇⠀⠀⠀⠈⠏⠀⠀⠀⠀⣼⣿⠀\n⠀⠻⣿⣷⣮⣤⣀⠀ ౨ৎ⠀⣾⡿⠃⠀\n⠀⠀⠀⠀⠉⠉⠻⣿⣄⣴⣿⠟⠀⠀⠀\n✧⠀⠀⠀⠀⠀⠀⣿⡿⠟⠁⠀⠀⠀⠀ ౨ৎ https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2100433861868199936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY9eALbIAA5pSK.jpg",
+        "width": 278
+      },
+      {
+        "height": 838,
+        "media_key": "3_2100433861838839808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY9eAEbIAAyhlY.jpg",
+        "width": 278
+      },
+      {
+        "height": 838,
+        "media_key": "3_2100433861801025537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY9d_7aIAEueri.jpg",
+        "width": 278
+      },
+      {
+        "height": 838,
+        "media_key": "3_2100433861788459008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY9d_4aYAA0MSx.jpg",
+        "width": 278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2100672077485507016",
+        "created_at": "2026-09-17T19:43:46.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100672077485507016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003870319304757252",
+              "start": 3,
+              "username": "7e7_o_o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100672077485507016",
+        "lang": "bn",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100433870596518054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7e7_o_o_: ౨ৎ ⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣦⠀⠀✧\n⠀⠀⣠⣤⣤⣄⣀⣾⣿⠟⠛⠻⢿⣷⠀\n⢰⣿⡿⠛⠙⠻⣿⣿⠁⠀⠀⠀⢸⣿⡇\n⢿⣿⣇⠀⠀⠀⠈⠏⠀⠀⠀⠀⣼⣿⠀\n⠀⠻⣿⣷⣮⣤⣀⠀ ౨ৎ⠀⣾⡿⠃⠀\n⠀⠀⠀⠀⠉⠉⠻⣿⣄⣴⣿⠟⠀⠀⠀\n✧⠀⠀⠀⠀⠀⠀⣿⡿⠟⠁⠀⠀⠀⠀ ౨ৎ https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100433861868199936",
+            "3_2100433861838839808",
+            "3_2100433861801025537",
+            "3_2100433861788459008"
+          ]
+        },
+        "author_id": "2003870319304757252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100433870596518054",
+        "created_at": "2026-09-17T03:57:13.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100433870596518054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXZX7Zr9hF",
+              "end": 141,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100433870596518054/photo/1",
+              "media_key": "3_2100433861868199936",
+              "start": 118,
+              "url": "https://t.co/JXZX7Zr9hF"
+            },
+            {
+              "display_url": "pic.x.com/JXZX7Zr9hF",
+              "end": 141,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100433870596518054/photo/1",
+              "media_key": "3_2100433861838839808",
+              "start": 118,
+              "url": "https://t.co/JXZX7Zr9hF"
+            },
+            {
+              "display_url": "pic.x.com/JXZX7Zr9hF",
+              "end": 141,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100433870596518054/photo/1",
+              "media_key": "3_2100433861801025537",
+              "start": 118,
+              "url": "https://t.co/JXZX7Zr9hF"
+            },
+            {
+              "display_url": "pic.x.com/JXZX7Zr9hF",
+              "end": 141,
+              "expanded_url": "https://x.com/7e7_o_o_/status/2100433870596518054/photo/1",
+              "media_key": "3_2100433861788459008",
+              "start": 118,
+              "url": "https://t.co/JXZX7Zr9hF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100433870596518054",
+        "lang": "bn",
+        "media_metadata": [
+          {
+            "media_key": "3_2100433861868199936"
+          },
+          {
+            "media_key": "3_2100433861838839808"
+          },
+          {
+            "media_key": "3_2100433861801025537"
+          },
+          {
+            "media_key": "3_2100433861788459008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 274,
+          "impression_count": 33573,
+          "like_count": 4551,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 423
+        },
+        "reply_settings": "everyone",
+        "text": "౨ৎ ⠀⠀⠀⠀⠀⠀⣠⣶⣶⣶⣦⠀⠀✧\n⠀⠀⣠⣤⣤⣄⣀⣾⣿⠟⠛⠻⢿⣷⠀\n⢰⣿⡿⠛⠙⠻⣿⣿⠁⠀⠀⠀⢸⣿⡇\n⢿⣿⣇⠀⠀⠀⠈⠏⠀⠀⠀⠀⣼⣿⠀\n⠀⠻⣿⣷⣮⣤⣀⠀ ౨ৎ⠀⣾⡿⠃⠀\n⠀⠀⠀⠀⠉⠉⠻⣿⣄⣴⣿⠟⠀⠀⠀\n✧⠀⠀⠀⠀⠀⠀⣿⡿⠟⠁⠀⠀⠀⠀ ౨ৎ https://t.co/JXZX7Zr9hF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分回fo‖我不會發裸照只會發雪圖，喜歡更深層次的身體的可以follow me了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ekou_uuuuu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ekou_uuuuu",
+                "start": 0,
+                "url": "https://t.co/BBNgrS01pz"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2100672077485507016",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2095716364187292140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 149,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/BBNgrS01pz",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-24T16:48:16.000Z",
+        "description": "(なの)ですhttps://t.co/DW2VDZAa35",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/asuuu_o_o_",
+                "end": 29,
+                "expanded_url": "https://lit.link/asuuu_o_o_",
+                "start": 6,
+                "url": "https://t.co/DW2VDZAa35"
+              }
+            ]
+          }
+        },
+        "id": "2003870319304757252",
+        "is_identity_verified": false,
+        "location": "習作雑多",
+        "most_recent_tweet_id": "2100647684537557442",
+        "name": "7ノ",
+        "pinned_tweet_id": "2029631946012381651",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086476671599984640/fja7CM9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8647,
+          "following_count": 37,
+          "like_count": 2621,
+          "listed_count": 23,
+          "media_count": 115,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "7e7_o_o_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
